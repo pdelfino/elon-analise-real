@@ -1,6 +1,41 @@
+English:
+
+# Context
+
+Professor Elon Lages Lima's Real Analysis books are widely used in Brazil. Although they provide an answer key with solutions and suggestions, not all exercises are commented on. Additionally, some solutions are quite dense due to their brevity.
+
+A mathematician named **Rodrigo Carlos Silva de Lima** did an outstanding job by presenting numerous solutions to Elon's books. Kindly, Rodrigo freely shares his solutions, as well as other materials, on the following links:
+
+* [Rodrigo's Blogspot](https://matematicapurafm.blogspot.com/2018/04/minhas-anotacoes-de-matematica-para.html)
+* [Rodrigo's Wordpress](https://bmpa.wordpress.com/2012/04/29/minhas-anotacoes/)
+
+Despite the effort, the first time I came across Rodrigo's material was through websites like *Passei Direto* and *Ebah*. At some point, you had to register or even pay to download the material. To make matters worse, several versions of Rodrigo's material are circulating (2012, 2015, and 2017).
+
+Aware of this, I decided to create another pointer on the internet to help others find this material more easily.
+
+# Real Analysis Course Volume I ("Thick Elon")
+
+[Solutions](https://github.com/pdelfino/elon-analise/blob/master/grosso-curso-analise-real-vol-1.pdf)
+
+# Real Analysis Volume I ("Thin Elon" or "Elinho")
+
+[Solutions](https://github.com/pdelfino/elon-analise/blob/master/fino-analise-real-volume-1.pdf)
+
+## Disclaimer
+
+Although I recognize the importance of Professor Elon Lages Lima for the development of mathematics in Brazil—and even in Latin America due to IMPA's regional leadership—his book is not my first, second, or even third recommendation. In fact, if a student is studying Real Analysis or advanced pure mathematics subjects for the first time, I suggest they actually avoid Elon's book.
+
+Unfortunately, in my case, I had to use the book because the course I took in the Applied Mathematics undergraduate program (FGV EMAp) was designed around it. If someone asked me for help, I would recommend:
+
+- [Introduction to Analysis | Arthur Mattuck](https://www.amazon.com/Introduction-Analysis-Arthur-Mattuck/dp/1484814118). This book was written by an MIT mathematics professor who taught Real Analysis to Engineering students. The book emerged from lecture notes and the author's teaching experience. It helped me. However, depending on your context, it might feel "easy" compared to your course's level. In my case, Mattuck's exercises were not enough for the demands I faced. Still, it was useful for an initial read.
+
+- [Analysis I | Terrence Tao](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics/dp/9380250649). This book was written by someone considered by many as the greatest contemporary mathematician. The writing is elegant, simple, accessible, and rigorous. One of the best math books I’ve encountered. The book’s approach is not the classical one seen in the literature. Tao spends more time than other authors on foundations, building up the operations and number sets (Natural, Integer, Rational, and Real). For that reason, Tao’s book wasn’t optimized for my exams, so I didn’t use it much. Still, it’s worth noting that the exercises are challenging. At some American universities, Tao's book is only used in *Honors* undergraduate courses. In fact, this book is also the result of the author’s lecture notes.
+
+- [Understanding Analysis | Stephen Abbott](https://www.springer.com/gp/book/9781493927111). I had little contact with this book and wish I had more time to study it. It’s also a great book.
+
+Portuguese:
+
 # Contexto
-
-
 
 Os livros de Análise Real do Professor Elon Lages Lima são largamente usados no Brasil. Apesar de oferecer um gabarito com resoluções e sugestões, nem todas as questões são comentadas. Além disso, algumas resoluções são muito densas por serem curtas.
 
