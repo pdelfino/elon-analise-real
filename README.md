@@ -1,6 +1,6 @@
 # Elon Analise Real
 
-![Melencolia I](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg/600px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg)
+![Melencolia I](./painting.jpg)
 
 *"Melencolia I" (1514) by Albrecht Dürer — [Wikipedia](https://en.wikipedia.org/wiki/Melencolia_I)*
 
