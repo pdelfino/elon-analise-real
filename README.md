@@ -47,3 +47,41 @@ The solution PDFs are written in Portuguese. This repository was created in the 
 ## Context
 
 This repository was born from the experience of studying Applied Mathematics at FGV EMAp (Escola de Matematica Aplicada), where the curriculum was built around Elon's textbooks.
+
+---
+
+## Sobre (em Portugues)
+
+Os livros de Analise Real do Professor Elon Lages Lima estao entre os mais utilizados nos cursos de Matematica das universidades brasileiras. Embora os livros contenham gabarito, muitos exercicios nao possuem resolucao, e as que existem costumam ser extremamente resumidas.
+
+Um matematico chamado **Rodrigo Carlos Silva de Lima** produziu um conjunto excelente e detalhado de resolucoes para esses livros. Ele compartilha seu trabalho gratuitamente em seus blogs pessoais. No entanto, historicamente esse material sempre foi dificil de encontrar -- espalhado em plataformas como *Passei Direto* e *Ebah*, muitas vezes exigindo cadastro ou pagamento para download, e disponivel em versoes inconsistentes (2012, 2015, 2017).
+
+Este repositorio existe para ser um **ponto unico, confiavel e gratuito** de acesso a essas resolucoes, garantindo que qualquer estudante consiga encontra-las sem dificuldade.
+
+### Resolucoes
+
+| Livro | Apelido | Resolucoes |
+|-------|---------|------------|
+| *Curso de Analise Real*, Vol. I | "Elon Grosso" | [Baixar PDF](https://github.com/pdelfino/elon-analise/blob/master/grosso-curso-analise-real-vol-1.pdf) |
+| *Analise Real*, Vol. I | "Elon Fino" / "Elinho" | [Baixar PDF](https://github.com/pdelfino/elon-analise/blob/master/fino-analise-real-volume-1.pdf) |
+
+### Autor Original
+
+Todo o credito pelas resolucoes vai para **Rodrigo Carlos Silva de Lima**. Seus materiais originais podem ser encontrados em:
+
+- [Blogspot do Rodrigo](https://matematicapurafm.blogspot.com/2018/04/minhas-anotacoes-de-matematica-para.html)
+- [WordPress do Rodrigo](https://bmpa.wordpress.com/2012/04/29/minhas-anotacoes/)
+
+### Recomendacoes Alternativas
+
+Se voce esta estudando Analise Real pela primeira vez, os livros do Elon podem nao ser o melhor ponto de partida. Considere estas alternativas:
+
+- **[Introduction to Analysis -- Arthur Mattuck](https://www.amazon.com/Introduction-Analysis-Arthur-Mattuck/dp/1484814118)** -- Escrito por um professor do MIT que lecionou Analise Real para alunos de engenharia. Acessivel e construido a partir de anos de experiencia em sala de aula. Otima primeira leitura, embora os exercicios possam ser faceis demais para disciplinas com enfase em demonstracoes.
+
+- **[Analysis I -- Terence Tao](https://www.amazon.com/Analysis-Third-Texts-Readings-Mathematics/dp/9380250649)** -- Escrito por um dos maiores matematicos vivos. Elegante, rigoroso e notavelmente claro. Tao adota uma abordagem nao classica, construindo cuidadosamente os sistemas numericos desde o inicio. Usado em cursos de Honra em diversas universidades americanas. Os exercicios sao desafiadores.
+
+- **[Understanding Analysis -- Stephen Abbott](https://www.springer.com/gp/book/9781493927111)** -- Outro excelente livro-texto, muito bem avaliado, para aprender Analise Real.
+
+### Contexto
+
+Este repositorio nasceu da experiencia de estudar Matematica Aplicada na FGV EMAp (Escola de Matematica Aplicada), onde o curriculo era construido em torno dos livros do Elon.
